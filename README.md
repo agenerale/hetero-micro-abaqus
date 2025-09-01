@@ -44,3 +44,5 @@ This section provides a brief description of the contents of this repository.
 1. *main.py*: Executes batches of 2D microstructures and returns separate output files with thermal and mechanical properties.
 
 2. *abaqus_helpers.py*: Main functions for executing ABAQUS simulations and post-processing results.
+
+3. *job_submit.sbatch*: SLURM submission script.
